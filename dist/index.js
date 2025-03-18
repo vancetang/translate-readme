@@ -27608,6 +27608,7 @@ module.exports = /******/ (function (modules, runtime) {
         }
       }
 
+      translateReadme();
       /***/
     },
     ,
